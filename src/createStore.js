@@ -1,4 +1,4 @@
-// let store, button; 
+let store
 
 export default function createStore(reducer) {
   let state;
