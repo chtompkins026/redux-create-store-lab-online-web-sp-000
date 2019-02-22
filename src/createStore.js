@@ -1,4 +1,4 @@
-let store
+let store; 
 
 export default function createStore(reducer) {
   let state;
